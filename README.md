@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on building real-world web applications that solve practical problems<br>🤝 I’m looking to collaborate on Web Development & AI-based projects<br>🧠 I’m currently learning Advanced React, Backend Development & System Design<br>💬 Ask me about JavaScript, React, DSA, and project building<br>⚡ Fun fact: I believe consistency beats talent — I build every single day
+🚀 Passionate 3rd-year Computer Science student<br> 💡 I’m currently working on building real-world web applications that solve practical problems<br>🤝 I’m looking to collaborate on Web Development & AI-based projects<br>🧠 I’m currently learning Advanced React, Backend Development & System Design<br>💬 Ask me about JavaScript, React, DSA, and project building<br>⚡ I don’t just learn tech — I build with it.
 
 
 ## 🌐 Socials:
