@@ -12,6 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Keshav8767&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav8767&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/Keshav8767/Keshav8767/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keshav8767/Keshav8767/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keshav8767/Keshav8767/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Keshav8767/Keshav8767/output/snake.svg">
+</picture>
 
 ###
